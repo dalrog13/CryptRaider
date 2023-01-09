@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CryptRaider",
+			"Path": "C:\\Users\\dalla\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider\\CryptRaider\\Source\\CryptRaider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CryptRaiderEditor",
+			"Path": "C:\\Users\\dalla\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
